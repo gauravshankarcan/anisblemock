@@ -1,2 +1,2 @@
 [all]
-www.cisco.com ansible_host=localhost ansible_connection=local
+e2867.dsca.akamaiedge.net ansible_host=localhost ansible_connection=local
