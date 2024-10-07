@@ -1,4 +1,3 @@
 [all]
-www.cisco.com.akadns.net ansible_host=localhost ansible_connection=local
 www.cisco.com ansible_host=localhost ansible_connection=local
 wwwds.cisco.com.edgekey.net.globalredir.akadns.net ansible_host=localhost ansible_connection=local
